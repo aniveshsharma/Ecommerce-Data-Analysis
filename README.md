@@ -8,5 +8,5 @@ The primary objective of this project is to delve into the sales data of the E-c
 Python (Data analysis and visualization), MySQL
 <h4>Libraries: -</h4>
 Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
-<h1>Visuals</h1>
-[Image](C:\Users\anive\Desktop\Untitled Folder\vscode\project\Annual_Sale_performance.jpg)
+<h2>Visuals</h2>
+![Annual Sale Performance](Annual_Sale_performance.jpg)
