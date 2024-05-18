@@ -9,4 +9,4 @@ Python (Data analysis and visualization), MySQL
 <h4>Libraries: -</h4>
 Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 <h2>Visuals</h2>
-![Annual Sale Performance](Annual_Sale_performance.jpg)
+![Annual Sale Performance](Annual_Sale_Performance.jpg)
