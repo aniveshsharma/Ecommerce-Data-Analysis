@@ -9,4 +9,5 @@ Python (Data analysis and visualization), MySQL
 <h4>Libraries: -</h4>
 Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 <h2>Visuals</h2>
-![Annual_Sale_Performance](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/4f2c20d2-c2b2-46f4-9979-22145e9b2ebd)
+![annual  sale performance](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/5cd1b255-f2d5-407e-9dbf-d36752d24db7)
+
