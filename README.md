@@ -1,1 +1,1 @@
-<h1>**Swift Market**</h1>
+<h1 align = "center">Swift Market</h1>
