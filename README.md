@@ -9,4 +9,4 @@ Python (Data analysis and visualization), MySQL
 <h4>Libraries: -</h4>
 Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 <h1>Visuals</h1>
-![Image](C:\Users\anive\Desktop\Untitled Folder\vscode\project\Annual_Sale_performance.jpg)
+[Image](C:\Users\anive\Desktop\Untitled Folder\vscode\project\Annual_Sale_performance.jpg)
