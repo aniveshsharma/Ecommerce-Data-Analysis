@@ -1,4 +1,5 @@
-.env
-file_to_install.txt
-test.ipynb /
-__pycache__ /
+.env/
+file_to_install.txt/
+test.ipynb/
+__pycache__/
+Annual_Sale_Performance.jpg/
