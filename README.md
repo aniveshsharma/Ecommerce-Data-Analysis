@@ -4,7 +4,7 @@ Welcome to the E-commerce Sales Analysis project repository! As a Data Analyst s
 <h2>Objective: -</h2>
 The primary objective of this project is to delve into the sales data of the E-commerce company and extract<br> valuable insights that can inform business strategies, identify trends, and optimize performance.
 <h2>Technologies: -</h2>
-<h3>Languages: -</h3>
+<h4>Languages: -</h4>
 Python (Data analysis and visualization), MySQL
-<h3>Libraries: -</h3>
+<h4>Libraries: -</h4>
 Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
