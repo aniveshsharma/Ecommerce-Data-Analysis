@@ -11,3 +11,5 @@ Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Dat
 <h2>Visuals</h2>
 
 ![Annual_Sale_Performance](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/965f72c2-37e3-4d14-b3fe-86cfdc50cacc)
+![Salary Expendature](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/aa608dd2-36ee-4f4e-89f5-587df38e9f58)
+![Revenue By Each Catogary](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/fff1c2bd-4404-46a4-baf8-74c5657c0d25)
