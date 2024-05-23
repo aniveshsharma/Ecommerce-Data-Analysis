@@ -10,4 +10,6 @@ Python (Data analysis and visualization), MySQL
 Pandas (Data manipulation), NumPy (Numerical computing), Matplotlib/Seaborn (Data visualization)
 <h2>Visuals</h2>
 
-![Annual_Sale_Performance](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/965f72c2-37e3-4d14-b3fe-86cfdc50cacc)
+![Annual_Sale_Performance](https://github.com/aniveshsharma/Ecommerce-Data-Analysis/assets/143382095/a1cf4658-f0b4-4e90-8c65-caf3fbacc722)
+
+
